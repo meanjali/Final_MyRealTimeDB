@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyRealTimeDB</string>
+    <array name="year">
+        <item>Comps</item>
+        <item>IT</item>
+        <item>EXTC</item>
+        <item>Mech</item>
+    </array>
+</resources>

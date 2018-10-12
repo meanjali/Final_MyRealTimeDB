@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "904567411246",
+    "firebase_url": "https://courtcounter-6f0f4.firebaseio.com",
+    "project_id": "courtcounter-6f0f4",
+    "storage_bucket": "courtcounter-6f0f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904567411246:android:316be7c92b0130e8",
+        "android_client_info": {
+          "package_name": "edu.somaiya.myrealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904567411246-6csien3kuaoh5erj0l1a7fd6ipmvft8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.somaiya.myrealtimedb",
+            "certificate_hash": "9a1a5cb80f7aef2df2c6130b9588634a8c1c6c1f"
+          }
+        },
+        {
+          "client_id": "904567411246-gq1uu0ulh0kpqtlj83kl7lm5j2jgevpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHk-jligZHvV3xBFQYPjrM3Ds8zMSzQVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904567411246-gq1uu0ulh0kpqtlj83kl7lm5j2jgevpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
